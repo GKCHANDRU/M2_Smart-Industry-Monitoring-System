@@ -1,4 +1,4 @@
-PROJ_NAME = Smart Industry Monitroing System
+PROJ_NAME = Smart Monitroing System
 
 BUILD_DIR = Build
 
