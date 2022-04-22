@@ -6,3 +6,4 @@
 
 ## CppCheck
 [![Cpp-Check](https://github.com/GKCHANDRU/M2_SmartMonitoringSystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/GKCHANDRU/M2_SmartMonitoringSystem/actions/workflows/c-cpp.yml)
+[![Analysis](https://github.com/GKCHANDRU/M2_SmartMonitoringSystem/actions/workflows/analysis.yml/badge.svg)](https://github.com/GKCHANDRU/M2_SmartMonitoringSystem/actions/workflows/analysis.yml)
