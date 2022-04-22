@@ -1,4 +1,4 @@
-DOXY_FILE = Smart Industry Monitoring System
+DOXY_FILE = Smart Monitoring System
 BUILD_FILE = html
 
 FixPath = $(subst /,\,$1)
